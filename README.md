@@ -1,4 +1,4 @@
-### Hi, I'm Natália Vitória 👩
+### printf("Hi, I'm Natália Vitória"\n); 👩
 
 - 🎓- Graduanda em Bacharelado Tecnologia da Informação (TI) - UFERSA - Campus Pau dos Ferros - RN;
 - 👩‍💻- Programadora aprendiz, procurando sempre se atualizar sobre as novas tecnologias do mercado atual.
