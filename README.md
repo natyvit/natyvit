@@ -1,7 +1,7 @@
 ### Hi, I'm Natália Vitória 👨
 
 - 🎓- Graduanda em Bacharelado Tecnologia da Informação (TI) - UFERSA - Campus Pau dos Ferros - RN;
-- 🔥- Programador aprendiz, procurando sempre estar atualizado com as novas tecnologias do mercado atual.
+- 👩‍💻- Programadora aprendiz, procurando sempre se atualizar sobre as novas tecnologias do mercado atual.
 
   ##
 
