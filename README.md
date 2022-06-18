@@ -1,14 +1,16 @@
-### Hi, I'm Natália Vitória 👨
+### Hi, I'm Natália Vitória 👩🏽
 
 - 🎓- Graduanda em Bacharelado Tecnologia da Informação (TI) - UFERSA - Campus Pau dos Ferros - RN;
-- 👩‍💻- Programadora aprendiz, procurando sempre se atualizar sobre as novas tecnologias do mercado atual.
+- 👩🏽‍💻- Programadora aprendiz, procurando sempre se atualizar sobre as novas tecnologias do mercado atual.
 
   ##
-
+## 📈 Estatísticas
 <div>
   <a href="https://github.com/natyvit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natyvit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyvit&layout=compact&langs_count=7&theme=algolia"/>
+          -->
 </div>
 
   ## 🛠 Conhecimentos
