@@ -15,11 +15,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
   <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg">
 </div>
 
   ##
