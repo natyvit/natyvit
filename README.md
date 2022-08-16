@@ -13,7 +13,7 @@
   </a>
 </div>
 
-  ## 🛠 Conhecimentos
+## 🛠 Conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
